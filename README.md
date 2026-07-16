@@ -1,4 +1,4 @@
-# Eventora 🎟️
+# Eventora -- (Bimal Kunwar) 🎟️
 ### Full-Stack Event Booking Platform
 
 <p>
@@ -138,7 +138,9 @@ Client will run on a local port provided by Vite, typically `http://localhost:51
 ## 📄 License
 
 This project is available for personal and educational use. Update this section with your preferred license (e.g., MIT) before publishing.
+Ask Bimal Kunwar before using this Project 
 
 ---
 
 <p align="center">Built with ❤️ using the MERN stack</p>
+
