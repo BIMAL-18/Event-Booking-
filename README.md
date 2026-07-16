@@ -142,5 +142,5 @@ Ask Bimal Kunwar before using this Project
 
 ---
 
-<p align="center">Built with ❤️ using the MERN stack</p>
+<p align="center">Built by Bimal Kunwar using the MERN stack</p>
 
